@@ -21,7 +21,7 @@ public class MoneymindUI {
     }
 
     public static void printGoodbye() {
-        System.out.println(GOODBYE);
+        System.out.println(LINE + GOODBYE + System.lineSeparator() + LINE);
     }
 
     public static void printNameRequest() {
