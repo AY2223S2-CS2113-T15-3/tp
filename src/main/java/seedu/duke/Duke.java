@@ -2,7 +2,7 @@ package seedu.duke;
 
 import java.util.Scanner;
 
-public class Moneymind {
+public class Duke {
 
     public static void main(String[] args) {
         MoneymindUI ui = new MoneymindUI();
